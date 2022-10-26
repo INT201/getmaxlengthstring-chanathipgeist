@@ -34,6 +34,6 @@ return max
 //console.log(getMaxLengthString(undefined))
 module.exports = getMaxLengthString
 
-
+//IDK
 
 
